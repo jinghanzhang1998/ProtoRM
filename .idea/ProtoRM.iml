@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/document/backup_version" />
+    </content>
+    <orderEntry type="jdk" jdkName="Remote Python 3.11.5 (sftp://xhz@10.218.219.166:22/home/xhz/.anaconda3/envs/trlx-RLHF/bin/python)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
